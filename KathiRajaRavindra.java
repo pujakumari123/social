@@ -1,4 +1,4 @@
-class One
+class KathiRajaRavindra
 {
 public static void main(string [] args)
 {
